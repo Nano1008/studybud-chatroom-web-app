@@ -1,1 +1,2 @@
-# studybud-chatroom-web-app
+# A studybud chatroom web app
+Tool: Django
